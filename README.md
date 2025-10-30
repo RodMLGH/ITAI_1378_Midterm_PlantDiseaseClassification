@@ -1,4 +1,4 @@
-# cv-project-plant-disease-classification
+# ITAI_1378_Midterm_PlantDiseaseClassification
 
 ## Rodrigo Sierra
 
