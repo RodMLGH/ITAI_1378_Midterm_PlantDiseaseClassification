@@ -26,7 +26,7 @@ This project aims to build an image classification model that can automatically 
 - Source: PlantVillage Dataset.
 - Size: 54.000+ images.
 - Labels: 38 different classes.
-- Link: https://www.kaggle.com/datasets/emmarex/plantdisease
+- Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 ## Success Metrics
 
@@ -42,14 +42,17 @@ This project aims to build an image classification model that can automatically 
 
 ## Resources Needed
 
+- Kaggle: Source of dataset.
 - Compute: Google Colab or Google Colab Pro.
 - Cost: 0 - 10 USD
 - API: No.
+- Github: Repository.
 
 ## Risks & Mitigation
 
 
-<img width="557" height="81" alt="image" src="https://github.com/user-attachments/assets/f9a412cd-0f18-44a1-9ea6-c9a6c0c91649" />
+<img width="557" height="101" alt="image" src="https://github.com/user-attachments/assets/793e91e9-0209-4e32-8cdf-a8eb30aab13b" />
+
 
 
 ## AI Usage Log
