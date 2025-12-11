@@ -1,4 +1,4 @@
-# Source Dataset
-
+Dataset: PlantVillage
 Download link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 Source: Kaggle
+Notes: Original dataset.
