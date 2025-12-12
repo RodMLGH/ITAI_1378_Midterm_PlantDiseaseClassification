@@ -1,1 +1,49 @@
+1. Understanding Transfer Learning
 
+I asked AI: “Explain in easy words how transfer learning works when using ResNet50.”
+Reason: I wanted to understand why the notebook keeps the pretrained layers and only changes the final layer.
+
+2. Fixing Google Drive Mount Problems
+
+I asked AI: “Why do I get this error when I try to mount Google Drive: ‘Cannot find mount point /content/drive’?”
+Reason: I could not access my files in Drive and needed to fix it to continue.
+
+3. Learning About Image Transforms
+
+I asked AI: “What do Resize, CenterCrop, ToTensor, and Normalize mean in my code?”
+Reason: I wanted to know what each preprocessing step does to the images.
+
+4. Solving the ‘Cannot Identify Image File’ Error
+
+I asked AI: “How can I fix this error when loading images: ‘cannot identify image file’?”
+Reason: Some images were causing the notebook to stop, and I needed to clean or skip them.
+
+5. Fixing the GPU Memory Error
+
+I asked AI: “Why am I getting a CUDA out-of-memory error, and how can I reduce GPU usage?”
+Reason: Training crashed and I needed help lowering memory use.
+
+6. Saving the Best Model Correctly
+
+I asked AI: “How do I save my best model as a .pth file? The code runs but the file doesn’t show up in Drive.”
+Reason: I needed to fix the save path so the model would actually be stored.
+
+7. Understanding Loss and Accuracy
+
+I asked AI: “Explain in simple words what training loss and accuracy mean.”
+Reason: I wanted to better understand the numbers shown during training.
+
+8. Fixing Wrong Predictions in Testing
+
+I asked AI: “Why is my model predicting the wrong class for some test images?”
+Reason: I needed help checking transforms, class labels, and data order.
+
+9. Making My Training Loop Cleaner
+
+I asked AI: “How can I make my training loop easier to read and add basic error checks?”
+Reason: I wanted clearer and more organized code.
+
+10. Understanding the Confusion Matrix
+
+I asked AI: “Explain in simple English how to read a confusion matrix.”
+Reason: I wanted to understand where the model was making mistakes.
