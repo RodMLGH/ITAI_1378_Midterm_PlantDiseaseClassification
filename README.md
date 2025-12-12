@@ -61,6 +61,7 @@ This project aims to build an image classification model that can automatically 
 ## Current Status
 
 
-<img width="185" height="121" alt="image" src="https://github.com/user-attachments/assets/f20d33f2-70fd-4537-b0d6-46a89ee71af6" />
+<img width="182" height="120" alt="image" src="https://github.com/user-attachments/assets/8439c6ef-ae09-48ad-b8a3-75969df9ae1e" />
+
 
 
